@@ -1,0 +1,17 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-2-13-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-03-lingalg-motivation-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-04-lingalg-linear-equations-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-05-lingalg-linear-equations-quiz-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-06-linalg-scalars-vectors-matrices-tensors-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-07-linalg-vector-addition-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-08-linalg-vector-matrices-numpy-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-09-linalg-mat-multiplication-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-10-linalg-dot-product-properties-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-11-linalg-python-vs-numpy-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-12-linalg-lineq-numpy-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-13-linalg-lineq-numpy-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-14-linalg-regression-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-15-linalg-regression-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-16-computational-complexity-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-13-18-section-recap-summary-online-ds-pt-031119.git
