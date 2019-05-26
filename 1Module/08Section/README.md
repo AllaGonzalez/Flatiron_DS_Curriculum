@@ -1,0 +1,17 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-1-08-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-03-intro-to-numpy-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-04-getting-started-with-numpy-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-05-getting-started-with-numpy-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-06-introduction-to-combinatorics-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-07-introduction-to-sets-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-08-introduction-to-sets-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-09-introduction-to-probability-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-10-introduction-to-probability-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-11-permutations-and-factorials-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-12-permutations-and-factorials-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-13-combinations-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-14-combinations-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-15-bernoulli-and-binomial-distribution-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-16-bernoulli-and-binomial-distribution-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-08-17-section-recap-summary-online-ds-pt-031119.git
