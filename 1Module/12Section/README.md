@@ -1,0 +1,13 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-1-12-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-022-data-science-processes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-03-obtaining-our-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-04-obtaining-our-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-05-scrubbing-our-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-06-scrubbing-our-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-07-exploring-our-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-08-exploring-our-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-09-modelling-our-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-10-holdout-validation-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-11-modeling-our-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-12-16-section-recap-summary-online-ds-pt-031119.git
