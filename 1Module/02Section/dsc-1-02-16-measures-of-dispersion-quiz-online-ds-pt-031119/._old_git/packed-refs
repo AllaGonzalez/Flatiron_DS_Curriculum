@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+d2b183d621891c7640f49c2bc1ad0f51c9179745 refs/remotes/origin/bugfix-remove-answer
+2813980907b1d66fef0aa5c8622ca6eeb45ec2ac refs/remotes/origin/master
+4889cbb028b74a2cdf494ce2cd3a6327933311fa refs/remotes/origin/solution
