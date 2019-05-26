@@ -1,0 +1,14 @@
+tags:
+  - SQL
+  - table relations
+  - jupyter
+  - python
+
+languages:
+  - SQLite
+  - SQL
+  - python
+
+jupyter_notebook: true
+
+resources: 0
