@@ -1,0 +1,16 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-2-18-01-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-03-html-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/AllaGonzalez/dsc-2-18-04-html-intro-lab-online-ds-pt-011419.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-05-html5-semantic-elements-online-ds-pt-031119.git
+- Repo added: https://github.com/AllaGonzalez/dsc-2-18-06-html-links-lab-online-ds-pt-011419.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-07-researching-html-elements-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-08-seperating-content-and-presentation-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-09-intro-to-css-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-10-css-code-along-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-11-my-little-rainbow-online-ds-pt-031119.git
+- Repo added: https://github.com/AllaGonzalez/dsc-2-18-12-kitten-into-wheelbarrow-online-ds-pt-011419.git
+- Repo added: https://github.com/AllaGonzalez/dsc-2-18-13-graffitti-override-lab-online-ds-pt-011419.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-14-web-scraping-with-beautiful-soup-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-15-web-scraping-with-beautiful-soup-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-18-15-section-recap-online-ds-pt-031119.git

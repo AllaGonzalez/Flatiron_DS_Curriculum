@@ -1,0 +1,13 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-2-16-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-03-json_and_xml-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-04-json-and-xml-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-05-known-json-schemas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-06-known-json-schemas-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-07-recursive-fuctions-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-08-recursive-fuctions-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-09-exploring-json-schemas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-10-exploring-json-schemas-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-11-no-sql-databases-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-14-12-no-sql-databases-qz-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-16-14-section-recap-summary-online-ds-pt-031119.git

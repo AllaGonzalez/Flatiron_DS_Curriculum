@@ -1,0 +1,12 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-2-17-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-15-03-intro-to-APIs-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-15-04-clients-and-servers-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-15-05-http-request-response-cycle-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-15-06-http-request-response-cycle-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-15-07-apis-and-oauth-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-17-08-using-the-yelp-api-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-17-09-reading-api-documentation-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-17-10-folium-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-17-11-yelp-api-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-17-12-section-recap-summary-online-ds-pt-031119.git
