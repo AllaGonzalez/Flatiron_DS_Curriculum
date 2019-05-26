@@ -1,0 +1,14 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-1-04-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-03-lambda-functions-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-04-lambda-functions-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-0-04-05-split-apply-combine-in-pandas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-06-combining-dataframes-with-pandas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-0-04-09-combining-dataframes-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-08-pivot-tables-with-pandas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-09-pivot-tables-with-pandas-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-0-04-14-missing-data-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-11-dealing-with-missing-data-quiz-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-12-dealing-with-missing-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-04-13-project-data-cleaning-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-0-04-20-section-recap-summary-online-ds-pt-031119.git
