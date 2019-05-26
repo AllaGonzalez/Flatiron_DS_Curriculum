@@ -1,0 +1,11 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-1-06-02-introduction-summary-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-03-introduction-to-object-orientation-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-04-introduction-to-classes-and-instances-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-06-instance-methods-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-05-classes-and-instances-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-07-instance-methods-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-09-understanding-self-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-10-object-attributes-getter-and-setter-methods-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-11-object-attributes-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-1-06-13-section-recap-summary-online-ds-pt-031119.git
