@@ -1,0 +1,14 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-2-22-01-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-03-MLE-Gaussian-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-03-MLE-gaussian-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-05-MAP-naive-bayes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-06-naive-bayes-assumptions-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-07-NB-Numpy-Lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-08-NB-sklearn-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-10-natural-language-processing-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-11-natural-language-processing-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-12-naive-bayes-and-nlp-in-sklearn-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-14-document-classification-using-naive-bayes-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-15-optimality-of-naive-bayes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-2-22-16-section-recap-online-ds-pt-031119.git
